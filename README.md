@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱I'am Zhexi Huang, 
+- 🔭 I’m currently a fourth-year undergraduate student studying computer science  in  School of Infomation Enginerring, Chang'an University.
+- 📫 I am applying to Master/Ph.D. programs this year.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangzhexi)](https://github.com/huangzhexi/github-readme-stats)
