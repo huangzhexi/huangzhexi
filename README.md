@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I'm Zhexi Huang, 
-- 🔭 I’m currently a fourth-year undergraduate student studying computer science  in  School of Infomation Enginerring, Chang'an University.
+- 🔭 I’m currently a third-year undergraduate student studying computer science  in  School of Infomation Enginerring, Chang'an University.
 - 📫 I am applying to Master/Ph.D. programs this year.
 
 
